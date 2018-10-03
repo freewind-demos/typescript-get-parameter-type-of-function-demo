@@ -1,9 +1,4 @@
-TypeScript Hello World Demo
-============================
+TypeScript Get Parameter Type of Function Demo
+==============================================
 
-```
-npm install
-npm run demo
-```
-
-It will print `Hello, TypeScript!`
+typescript连一个函数的参数类型都可以拿到，好厉害！
